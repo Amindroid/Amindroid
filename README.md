@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Amindroid/Amindroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amindroid 👋
 
-Here are some ideas to get you started:
+### Python · Automation · Practical Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building useful tools. Learning by creating.
+
+[Explore my repositories](https://github.com/Amindroid?tab=repositories)
+
+</div>
+
+---
+
+## About me
+
+- 🐍 Interested in Python and practical automation.
+- 📊 Exploring tools for working with data and spreadsheets.
+- 🌱 Improving my code, documentation, and project structure.
+- 🎯 Turning everyday problems into useful projects.
+
+## Current focus
+
+- Python scripting
+- Data processing
+- Command-line tools
+- Clear and reproducible documentation
+
+## Featured work
+
+Explore my pinned repositories below for selected projects.
