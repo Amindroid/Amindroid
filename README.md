@@ -4,32 +4,35 @@
 
 <div align="center">
 
-# Hi, I'm Amindroid 👋
+# 🌌 Hi, I'm Amindroid
 
-### Python · Automation · Practical Tools
+### Python · Automation · Data Tools
 
-Building useful tools. Learning by creating.
+Learning by building. Turning everyday tasks into useful tools.
 
-[Explore my repositories](https://github.com/Amindroid?tab=repositories)
+✦ Explore the projects behind my learning journey ✦
+
+[View my repositories →](https://github.com/Amindroid?tab=repositories)
 
 </div>
-
 ---
 
-## About me
+## 🪐 About me
 
 - 🐍 Interested in Python and practical automation.
 - 📊 Exploring tools for working with data and spreadsheets.
 - 🌱 Improving my code, documentation, and project structure.
 - 🎯 Turning everyday problems into useful projects.
 
-## Current focus
+## 🔭 Current focus
 
 - Python scripting
 - Data processing
 - Command-line tools
 - Clear and reproducible documentation
 
-## Featured work
+## 🚀 Featured projects
 
-Explore my pinned repositories below for selected projects.
+Small tools, practical ideas, and projects built along my learning journey.
+
+Explore my repositories to see what I'm building.
