@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.png" alt="Amindroid — purple and burgundy galaxy banner" width="100%">
+</p>
+
 <div align="center">
 
 # Hi, I'm Amindroid 👋
