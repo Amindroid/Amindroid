@@ -108,6 +108,36 @@
 
 <br>
 
+<h2 align="center">🚀 My Project</h2>
+
+<div align="center">
+
+  <h3>🤖 Slotly · Appointment Booking Bot</h3>
+
+  <p>
+    A Telegram bot for booking appointments.
+  </p>
+
+  <a href="https://t.me/my_slotly_booking_bot">
+    <img
+      src="https://img.shields.io/badge/OPEN_SLOTLY_BOT-831843?style=for-the-badge&logo=telegram&logoColor=F3E8FF"
+      alt="Open the Slotly appointment booking bot">
+  </a>
+
+  <br><br>
+
+  <img
+    src="https://img.shields.io/badge/TELEGRAM_BOT-45206B?style=flat-square&logo=telegram&logoColor=E9D5FF"
+    alt="Telegram bot">
+
+  <img
+    src="https://img.shields.io/badge/APPOINTMENT_BOOKING-701A45?style=flat-square"
+    alt="Appointment booking">
+
+</div>
+
+<br>
+
 <h2 align="center">📡 Connect with Me</h2>
 
 <p align="center">
@@ -116,11 +146,15 @@
 
 <p align="center">
   <a href="mailto:mohammadtafakkur@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-701A45?style=for-the-badge&logo=gmail&logoColor=F3E8FF" alt="Email Mohammad">
+    <img
+      src="https://img.shields.io/badge/EMAIL_ME-701A45?style=for-the-badge&logo=gmail&logoColor=F3E8FF"
+      alt="Email: mohammadtafakkur@gmail.com">
   </a>
   &nbsp;
   <a href="https://t.me/i1amintk">
-    <img src="https://img.shields.io/badge/TELEGRAM-45206B?style=for-the-badge&logo=telegram&logoColor=F3E8FF" alt="Telegram: @i1amintk">
+    <img
+      src="https://img.shields.io/badge/PERSONAL_TELEGRAM-45206B?style=for-the-badge&logo=telegram&logoColor=F3E8FF"
+      alt="Personal Telegram: @i1amintk">
   </a>
 </p>
 
